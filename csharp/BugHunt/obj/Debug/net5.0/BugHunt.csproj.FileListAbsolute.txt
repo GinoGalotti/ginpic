@@ -1,0 +1,12 @@
+D:\Workspace\ginpic\csharp\BugHunt\obj\Debug\net5.0\BugHunt.csprojAssemblyReference.cache
+D:\Workspace\ginpic\csharp\BugHunt\obj\Debug\net5.0\BugHunt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\ginpic\csharp\BugHunt\obj\Debug\net5.0\BugHunt.AssemblyInfoInputs.cache
+D:\Workspace\ginpic\csharp\BugHunt\obj\Debug\net5.0\BugHunt.AssemblyInfo.cs
+D:\Workspace\ginpic\csharp\BugHunt\obj\Debug\net5.0\BugHunt.csproj.CoreCompileInputs.cache
+D:\Workspace\ginpic\csharp\BugHunt\bin\Debug\net5.0\BugHunt.deps.json
+D:\Workspace\ginpic\csharp\BugHunt\bin\Debug\net5.0\BugHunt.dll
+D:\Workspace\ginpic\csharp\BugHunt\bin\Debug\net5.0\ref\BugHunt.dll
+D:\Workspace\ginpic\csharp\BugHunt\bin\Debug\net5.0\BugHunt.pdb
+D:\Workspace\ginpic\csharp\BugHunt\obj\Debug\net5.0\BugHunt.dll
+D:\Workspace\ginpic\csharp\BugHunt\obj\Debug\net5.0\ref\BugHunt.dll
+D:\Workspace\ginpic\csharp\BugHunt\obj\Debug\net5.0\BugHunt.pdb
